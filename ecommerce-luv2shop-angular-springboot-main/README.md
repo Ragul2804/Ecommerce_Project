@@ -123,6 +123,6 @@ You can preview Luv2Shop live demo at [luv2shop-ecommerce](https://luv2shop-ecom
 
 ## Video Demonstration
 
-Watch a video demonstration of the Luv2Shop project [here](https://www.youtube.com/watch?v=jLlTbAgyTbQ).
+https://github.com/Ragul2804/Ecommerce_Project/assets/162154503/7c95f083-c6a1-4996-a95e-84921cc1427b
 
 We appreciate your interest and look forward to your contributions and feedback!
